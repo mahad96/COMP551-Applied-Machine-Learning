@@ -1,0 +1,8 @@
+Model, Runtime
+Pipe_23_DT_Runtime, 201.65361547470093
+NaiveBayes_Runtime, 2.74
+Pipe_24_LR_Runtime, 78.72566485404968
+Pipe_25_LR_Runtime, 359.3269157409668
+Pipe_26_LR_Runtime, 73.55558586120605
+Pipe_27_LR_Runtime, 79.03659749031067
+Pipe_28_LR_Runtime, 303.94876194000244
